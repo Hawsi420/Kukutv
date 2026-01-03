@@ -1,0 +1,58 @@
+[
+  {
+    "domain": "tv.kukufm.com",
+    "name": "guest_user_id",
+    "value": "5cd40530-fa53-47ac-8cdc-00ff714fcdde",
+    "path": "/",
+    "secure": false
+  },
+  {
+    "domain": "tv.kukufm.com",
+    "name": "preferredLang",
+    "value": "hindi",
+    "path": "/",
+    "secure": false
+  },
+  {
+    "domain": "tv.kukufm.com",
+    "name": "jwtToken",
+    "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNzkxOTc4MywiZXhwIjoxNzY4MTU2MjAwfQ.4CAtTR4J7nNHmn3hDBcdzjDUKc_tog0OgBxZlrHAF_JZ5D8JHptBDcWwVDYmow5AFgYAdnSJOE8x_VyO7NSZrA",
+    "path": "/",
+    "secure": false
+  },
+  {
+    "domain": "tv.kukufm.com",
+    "name": "AWSALB",
+    "value": "buwOXXIH7ruwEhPGrEoCB6fjwpn1kLAn8W2jwIdSZgbL6ifVa6Hx0pgVuIkG8CFs6zOAXI7X0aDZMNKEy0W8km4CwzaP+noOxL79ERZK2P61BTQyxjCe1EviWJyrZFF4CMCUrAwPwEIFpa/zNzrTIjmikgZVgukS5GtD7GISodETKJ6MIRnYefaqGglt/Q==",
+    "path": "/",
+    "secure": false
+  },
+  {
+    "domain": "tv.kukufm.com",
+    "name": "AWSALBCORS",
+    "value": "buwOXXIH7ruwEhPGrEoCB6fjwpn1kLAn8W2jwIdSZgbL6ifVa6Hx0pgVuIkG8CFs6zOAXI7X0aDZMNKEy0W8km4CwzaP+noOxL79ERZK2P61BTQyxjCe1EviWJyrZFF4CMCUrAwPwEIFpa/zNzrTIjmikgZVgukS5GtD7GISodETKJ6MIRnYefaqGglt/Q==",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "domain": "tv.kukufm.com",
+    "name": "AWSALBTG",
+    "value": "0C64QCH3ne9m/42UsC5NbqOzNRaFagq1WrbDREZ55iam92zF4+lNNtPZhy08pa2u8E/Ug4e9bqzJtcpxTdrSBcSV5Edeis0r2hoCc1DWhgOp9Q6+U7nBdzxJHduc7y3W06b3ICARqU0TaYJ7S7uJS6pi/GPoRrx2OyngFBxzXImQiEpqUybj99U1SxCui81ngu1J0YYzBMD2xVsZEStxsUWsI5xQG6Asnk5+Jse4EGtbZI64r/vQfkm7q13tLIexDh6Z+jE=",
+    "path": "/",
+    "secure": false
+  },
+  {
+    "domain": "tv.kukufm.com",
+    "name": "AWSALBTGCORS",
+    "value": "0C64QCH3ne9m/42UsC5NbqOzNRaFagq1WrbDREZ55iam92zF4+lNNtPZhy08pa2u8E/Ug4e9bqzJtcpxTdrSBcSV5Edeis0r2hoCc1DWhgOp9Q6+U7nBdzxJHduc7y3W06b3ICARqU0TaYJ7S7uJS6pi/GPoRrx2OyngFBxzXImQiEpqUybj99U1SxCui81ngu1J0YYzBMD2xVsZEStxsUWsI5xQG6Asnk5+Jse4EGtbZI64r/vQfkm7q13tLIexDh6Z+jE=",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "domain": "tv.kukufm.com",
+    "name": "has_strip_banner",
+    "value": "false",
+    "path": "/",
+    "secure": false
+  }
+]
